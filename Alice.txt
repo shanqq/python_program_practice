@@ -3,6 +3,5 @@ this is the second line
 now learning branches 
 to create new branch
 Alice files gets updated and another master
-
 new branch Added Patrick.txt
 
